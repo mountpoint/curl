@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4" : {
-            "Mountpoint\\Curl" : "src"
+            "Mountpoint\\Curl\\" : "src"
         }
     },
     "require": {
