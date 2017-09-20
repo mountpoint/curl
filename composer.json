@@ -1,0 +1,20 @@
+{
+    "name": "mountpoint/curl",
+    "description": "A tiny cURL wrapper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Radzihovskiy",
+            "email": "mountpoint@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "Mountpoint\\" : "src"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
