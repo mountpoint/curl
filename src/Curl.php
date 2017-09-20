@@ -2,11 +2,6 @@
 
 namespace Mountpoint\Curl;
 
-/**
- * Tiny cURL wrapper
- *
- * @author Andrey Radzihovskiy
- */
 class Curl
 {
     /**
