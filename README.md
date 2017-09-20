@@ -1,7 +1,7 @@
 A tiny cURL wrapper
 ========================
 
-v0.1.0
+v0.1.1
 
 ## Installation & loading
 
